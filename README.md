@@ -1,4 +1,4 @@
-# proxy scraper🔎
+# proxy scraper🔎 ![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
 
 Installation:
 git clone https://github.com/ebankoff/proxy_scraper
