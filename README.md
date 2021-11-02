@@ -5,15 +5,15 @@ git clone https://github.com/ebankoff/proxy_scraper
 
 Required pip libraries (pip install library name):
   
-lxml
+1. lxml
   
-beautifulsoup4
+2. beautifulsoup4
   
-bs4
+3. bs4
   
-progressbar
+4. progressbar
   
-colorama
+5. colorama
 
 Check installed libraries: pip list
 
