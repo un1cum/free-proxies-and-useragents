@@ -36,4 +36,6 @@ https://github.com/HuErGa/MassEmailMailing
 
 https://github.com/HuErGa/DiscordMusicBot
 
+https://github.com/ebankoff/BoMbEr
+
 https://github.com/HuErGa/discord_bot_constructor
