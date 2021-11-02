@@ -23,3 +23,17 @@ Python3 proxy.py
 Proxies are written to a txt file in the format:
 
 IP | PORT | COUNTRY | TYPE
+
+Authors:
+
+https://github.com/ebankoff
+
+My other works:
+
+https://github.com/HuErGa/BOMBER2.0
+
+https://github.com/HuErGa/MassEmailMailing
+
+https://github.com/HuErGa/DiscordMusicBot
+
+https://github.com/HuErGa/discord_bot_constructor
