@@ -1,4 +1,4 @@
-# proxy scraper
+# proxy scraper🔎
 
 Installation:
 git clone https://github.com/ebankoff/proxy_scraper
