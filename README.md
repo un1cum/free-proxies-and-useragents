@@ -3,7 +3,7 @@
 Installation:
 git clone https://github.com/ebankoff/proxy_scraper
 
-Required pip libraries (pip install <library name>):
+Required pip libraries (pip install library name):
   
 lxml
   
