@@ -27,6 +27,6 @@
 
 IP | PORT | COUNTRY | TYPE
 
-Authors:
-
-https://github.com/ebankoff
+| Authors |
+|----------------|
+|https://github.com/ebankoff|
