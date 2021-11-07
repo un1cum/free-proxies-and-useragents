@@ -24,6 +24,7 @@
 * Python3 proxy.py
 
 |Proxies are written to a txt file in the format:|
+|----------------|
 |IP | PORT | COUNTRY | TYPE|
 
 | Authors |
