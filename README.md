@@ -15,7 +15,9 @@
   
 * colorama
 
-`Check installed libraries: pip list`
+`Check installed libraries:`
+
+* pip list
 
 `Launch:`
 
