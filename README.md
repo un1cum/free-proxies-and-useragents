@@ -23,9 +23,8 @@
 
 * Python3 proxy.py
 
-|Proxies format|
-|----------------|:---------:|:--------------:|---------:|
-|       IP       |   PORT    |     COUNTRY    |      TYPE|
+`Proxies format`
+`| IP | PORT | COUNTRY | TYPE |`
 
 | Authors |
 |----------------|
