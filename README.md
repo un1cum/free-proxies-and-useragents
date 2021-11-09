@@ -30,7 +30,3 @@
 `Proxies format`
 
 `| IP | PORT | COUNTRY | TYPE |`
-
-| Authors |
-|----------------|
-|https://github.com/ebankoff|
