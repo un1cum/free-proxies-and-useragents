@@ -1,6 +1,6 @@
 # proxy scraper🔎
 
-[![Dependabot](https://badgen.net/badge/ebankoff/ebankoff/red?icon=github&label)](https://github.com/ebankoff) [![Dependabot](https://badgen.net/badge/discord/discord/yellow?icon=discord&label)](https://discord.gg/c-h-i-l-l) [![Dependabot](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/cozyyrooom)
+[![Dependabot](https://badgen.net/badge/ebankoff/ebankoff/red?icon=github&label)](https://github.com/ebankoff) [![Dependabot](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/cozyyrooom)
 
 ![wtf](https://i.ibb.co/fnn3FhP/Comp-1-00000.png "proxy")
 
