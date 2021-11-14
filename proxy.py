@@ -74,7 +74,7 @@ def main():
 ┃3) Delete saved proxy      ┃
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
 		""")
-	ans=input(">> ")
+	ans=input("> ")
 	if(ans=='1'):
 		with open(r"proxy.txt", "a") as file:
 			for child in soup.recursiveChildGenerator():    
