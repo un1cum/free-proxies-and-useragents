@@ -7,9 +7,9 @@
 
 * Installation
 * 1 way
- * git clone https://github.com/ebankoff/scrapper
+  * git clone https://github.com/ebankoff/scrapper
 * 2 way
- * pip install ebankoff-scraper
+  * pip install ebankoff-scraper
 
 * Required pip libraries (pip install library name)
   * lxml
@@ -27,7 +27,7 @@
   * python3 scraper.py
 
 * For 2 way
- * scraper
+  * scraper
 
 # Problems and their solutions
 
@@ -47,9 +47,9 @@ This means that you don't have the library that is specified in the error, in th
 
 * Установка
 * 1 путь
- * git clone https://github.com/ebankoff/scrapper
+  * git clone https://github.com/ebankoff/scrapper
 * 2 путь
- * pip install ebankoff-scraper
+  * pip install ebankoff-scraper
 
 * Необходимые библиотеки pip (pip install library name)
   * lxml
