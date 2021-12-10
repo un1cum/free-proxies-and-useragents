@@ -17,7 +17,7 @@
   * pip list
 
 * Launch
-* cd proxy_scrapper
+  * cd proxy_scrapper
   * Python3 proxy.py
 
 * Proxies format
