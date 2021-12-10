@@ -1,4 +1,4 @@
-# ![image](https://i.ibb.co/MsKdDL4/Comp-1-00000.png)
+# [![image](https://i.ibb.co/MsKdDL4/Comp-1-00000.png)](https://t.me/cozyyrooom)
 # proxy scrapper🔎
 
 [![Button](https://badgen.net/badge/ebankoff/ebankoff/red?icon=github&label)](https://github.com/ebankoff) [![Button](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/cozyyrooom)
