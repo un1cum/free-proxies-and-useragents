@@ -42,7 +42,7 @@ This means that you don't have the library that is specified in the error, in th
 # RU
 
 * Установка
-  * git clone https://github.com/ebankoff/proxy_scrapper
+  * git clone https://github.com/ebankoff/scrapper
 
 * Необходимые библиотеки pip (pip install library name)
   * lxml
