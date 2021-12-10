@@ -19,8 +19,8 @@
   * pip list
 
 * Launch
-  * cd proxy_scrapper
-  * Python3 proxy.py
+  * cd scrapper
+  * Python3 scrapper.py
 
 * Proxies format
   * IP | PORT 
@@ -55,8 +55,8 @@ This means that you don't have the library that is specified in the error, in th
   * pip list
 
 * Запуск
-  * cd proxy_scrapper
-  * Python3 proxy.py
+  * cd scrapper
+  * Python3 scrapper.py
 
 * Формат прокси
   * IP | PORT 
