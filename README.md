@@ -6,9 +6,9 @@
 # EN
 
 * Installation
-* First way
+* 1 way
  * git clone https://github.com/ebankoff/scrapper
-* Second way
+* 2 way
  * pip install ebankoff-scraper
 
 * Required pip libraries (pip install library name)
