@@ -6,7 +6,7 @@
 # EN
 
 * Installation
-  * git clone https://github.com/ebankoff/proxy_scrapper
+  * git clone https://github.com/ebankoff/scrapper
 
 * Required pip libraries (pip install library name)
   * lxml
