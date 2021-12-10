@@ -1,32 +1,34 @@
+# ![image](https://i.ibb.co/MsKdDL4/Comp-1-00000.png)
 # proxy scrapper🔎
 
-[![Dependabot](https://badgen.net/badge/ebankoff/ebankoff/red?icon=github&label)](https://github.com/ebankoff) [![Dependabot](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/cozyyrooom)
+[![Button](https://badgen.net/badge/ebankoff/ebankoff/red?icon=github&label)](https://github.com/ebankoff) [![Button](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/cozyyrooom)
 
-![wtf](https://i.ibb.co/fnn3FhP/Comp-1-00000.png "proxy")
+* Installation
+  * git clone https://github.com/ebankoff/proxy_scrapper
 
-`Installation:`
-* git clone https://github.com/ebankoff/proxy_scrapper
+* Required pip libraries (pip install library name)
+  * lxml
+  * beautifulsoup4
+  * bs4
+  * progressbar
+  * colorama
 
-`Required pip libraries (pip install library name):`
-  
-* lxml
-  
-* beautifulsoup4
-  
-* bs4
-  
-* progressbar
-  
-* colorama
+* Check installed libraries
+  * pip list
 
-`Check installed libraries:`
+* Launch
+* cd proxy_scrapper
+  * Python3 proxy.py
 
-* pip list
+* Proxies format
+  * IP | PORT 
 
-`Launch:`
+# Problems and their solutions
 
-* Python3 proxy.py
+If you see something like this:
 
-`Proxies format`
+![image](https://i.ibb.co/XWNtL0S/Screenshot-1.png "no module named") 
 
-`| IP | PORT | COUNTRY | TYPE |`
+This means that you don't have the library that is specified in the error, in this case: "_ctypes". You need to enter in the terminal or cmd:
+
+* pip install the name of the required library (example: pip install _ctypes)
