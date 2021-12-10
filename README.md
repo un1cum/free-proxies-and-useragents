@@ -32,3 +32,7 @@ If you see something like this:
 This means that you don't have the library that is specified in the error, in this case: "_ctypes". You need to enter in the terminal or cmd:
 
 * pip install the name of the required library (example: pip install _ctypes)
+
+# Donate for coffee
+
+[![wtf2](https://i.ibb.co/ryDytyR/Comp-1-00000.png)](https://qiwi.com/n/HERAMANT)
