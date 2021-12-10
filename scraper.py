@@ -53,7 +53,7 @@ def ex():
 																		 
                          Thanks for using scraper!
         I would be grateful if you star on this repository on GitHub:
-                    https://github.com/ebankoff/scrapper
+                    https://github.com/ebankoff/scraper
 
             You can support me by sending any amount to my Qiwi:
                             qiwi.com/n/HERAMANT
