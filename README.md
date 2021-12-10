@@ -22,8 +22,12 @@
   * pip list
 
 * Launch
+* For 1 way
   * cd scraper
   * python3 scraper.py
+
+* For 2 way
+ * scraper
 
 # Problems and their solutions
 
@@ -42,7 +46,10 @@ This means that you don't have the library that is specified in the error, in th
 # RU
 
 * Установка
-  * git clone https://github.com/ebankoff/scraper
+* 1 путь
+ * git clone https://github.com/ebankoff/scrapper
+* 2 путь
+ * pip install ebankoff-scraper
 
 * Необходимые библиотеки pip (pip install library name)
   * lxml
@@ -55,8 +62,12 @@ This means that you don't have the library that is specified in the error, in th
   * pip list
 
 * Запуск
+* Для 1 пути
   * cd scraper
   * python3 scraper.py
+
+* Для 2 пути
+  * scraper
 
 # Проблемы и их решения
 
