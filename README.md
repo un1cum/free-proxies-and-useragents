@@ -1,5 +1,5 @@
 # [![image](https://i.ibb.co/MsKdDL4/Comp-1-00000.png)](https://t.me/cozyyrooom)
-# proxy and user agent scrapper🔎
+# proxy and user agent scraper🔎
 
 [![Button](https://badgen.net/badge/ebankoff/ebankoff/red?icon=github&label)](https://github.com/ebankoff) [![Button](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/cozyyrooom)
 
@@ -19,8 +19,8 @@
   * pip list
 
 * Launch
-  * cd scrapper
-  * Python3 scrapper.py
+  * cd scraper
+  * Python3 scraper.py
 
 * Proxies format
   * IP | PORT 
@@ -42,7 +42,7 @@ This means that you don't have the library that is specified in the error, in th
 # RU
 
 * Установка
-  * git clone https://github.com/ebankoff/scrapper
+  * git clone https://github.com/ebankoff/scraper
 
 * Необходимые библиотеки pip (pip install library name)
   * lxml
@@ -55,8 +55,8 @@ This means that you don't have the library that is specified in the error, in th
   * pip list
 
 * Запуск
-  * cd scrapper
-  * Python3 scrapper.py
+  * cd scraper
+  * Python3 scraper.py
 
 * Формат прокси
   * IP | PORT 
