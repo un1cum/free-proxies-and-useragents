@@ -20,7 +20,7 @@
 
 * Launch
   * cd scraper
-  * Python3 scraper.py
+  * python3 scraper.py
 
 # Problems and their solutions
 
@@ -53,7 +53,7 @@ This means that you don't have the library that is specified in the error, in th
 
 * Запуск
   * cd scraper
-  * Python3 scraper.py
+  * python3 scraper.py
 
 # Проблемы и их решения
 
