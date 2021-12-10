@@ -22,9 +22,6 @@
   * cd scraper
   * Python3 scraper.py
 
-* Proxies format
-  * IP | PORT 
-
 # Problems and their solutions
 
 If you see something like this:
@@ -57,9 +54,6 @@ This means that you don't have the library that is specified in the error, in th
 * Запуск
   * cd scraper
   * Python3 scraper.py
-
-* Формат прокси
-  * IP | PORT 
 
 # Проблемы и их решения
 
