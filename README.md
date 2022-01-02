@@ -12,7 +12,7 @@
   * cd scraper
   * python3 scraper.py
 * 2 way
-  * pip install ebankoff-scraper
+  * pip3 install ebankoff-scraper
   * scraper
 
 * Required pip libraries (pip install library name)
