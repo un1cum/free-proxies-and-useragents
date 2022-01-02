@@ -45,11 +45,14 @@ This means that you don't have the library that is specified in the error, in th
 
 # RU
 
-* Установка
+* Установка и запуск
 * 1 путь
   * git clone https://github.com/ebankoff/scraper
+  * cd scraper
+  * python3 scraper.py
 * 2 путь
   * pip install ebankoff-scraper
+  * scraper
 
 * Необходимые библиотеки pip (pip install library name)
   * lxml
@@ -60,14 +63,6 @@ This means that you don't have the library that is specified in the error, in th
 
 * Проверить установленные библиотеки pip
   * pip list
-
-* Запуск
-* Для 1 пути
-  * cd scraper
-  * python3 scraper.py
-
-* Для 2 пути
-  * scraper
 
 # Проблемы и их решения
 
