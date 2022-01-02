@@ -5,7 +5,8 @@
 
 # EN
 
-* Installation and run
+# Installation and run
+
 * 1 way
   * git clone https://github.com/ebankoff/scraper
   * cd scraper
@@ -45,7 +46,8 @@ This means that you don't have the library that is specified in the error, in th
 
 # RU
 
-* Установка и запуск
+# Установка и запуск
+
 * 1 путь
   * git clone https://github.com/ebankoff/scraper
   * cd scraper
