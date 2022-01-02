@@ -3,9 +3,9 @@
 
 [![Button](https://badgen.net/badge/ebankoff/ebankoff/red?icon=github&label)](https://github.com/ebankoff) [![Button](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/cozyyrooom) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://www.froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
 
-# EN
+# 📌 EN
 
-# Installation and run
+# 📌 Installation and run
 
 * 1 way
   * git clone https://github.com/ebankoff/scraper
@@ -25,7 +25,7 @@
 * Check installed libraries
   * pip list
 
-# Problems and their solutions
+# 📌 Problems and their solutions
 
 If you see something like this:
 
@@ -35,7 +35,7 @@ This means that you don't have the library that is specified in the error, in th
 
 * pip install the name of the required library (example: pip install _ctypes)
 
-# Donate for coffee
+# 📌 Donate for coffee
 
 [![wtf2](https://i.ibb.co/ryDytyR/Comp-1-00000.png)](https://qiwi.com/n/HERAMANT)
 
@@ -44,9 +44,9 @@ This means that you don't have the library that is specified in the error, in th
 * **Bitcoin: bc1qxfvstf99kyuc5x5uugxtsh3m6w3a73ruzfav7e**
 * **Ethereum: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
 
-# RU
+# 📌 RU
 
-# Установка и запуск
+# 📌 Установка и запуск
 
 * 1 путь
   * git clone https://github.com/ebankoff/scraper
@@ -66,7 +66,7 @@ This means that you don't have the library that is specified in the error, in th
 * Проверить установленные библиотеки pip
   * pip list
 
-# Проблемы и их решения
+# 📌 Проблемы и их решения
 
 Если у вас похожая ошибка:
 
@@ -76,7 +76,7 @@ This means that you don't have the library that is specified in the error, in th
 
 * pip install имя отсутствующей библиотеки (пример: pip install _ctypes)
 
-# Автору на кофе
+# 📌 Автору на кофе
 
 [![wtf2](https://i.ibb.co/ryDytyR/Comp-1-00000.png)](https://qiwi.com/n/HERAMANT)
 
