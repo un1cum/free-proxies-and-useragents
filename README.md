@@ -5,11 +5,14 @@
 
 # EN
 
-* Installation
+* Installation and run
 * 1 way
   * git clone https://github.com/ebankoff/scraper
+  * cd scraper
+  * python3 scraper.py
 * 2 way
   * pip install ebankoff-scraper
+  * scraper
 
 * Required pip libraries (pip install library name)
   * lxml
@@ -20,14 +23,6 @@
 
 * Check installed libraries
   * pip list
-
-* Launch
-* For 1 way
-  * cd scraper
-  * python3 scraper.py
-
-* For 2 way
-  * scraper
 
 # Problems and their solutions
 
