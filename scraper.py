@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+#!/usr/bin/env python
+
 """
 ╔═════════════════════════════════════════════════════════════════════════════════╗
 ║                                                                                 ║
@@ -22,6 +25,7 @@ import time
 import json
 import urllib
 import socket
+import ctypes
 import requests
 import colorama
 import numpy as np
@@ -62,7 +66,7 @@ def ex():
 			''')
 		print("Press Enter to exit")
 		input()
-		exit()
+		sys.exit()
 	elif param == 'no':
 		if platform == 'win32':
 			os.system("cls")
@@ -120,10 +124,13 @@ def main():
 	print(Fore.CYAN + "================================================")
 
 	print("""
-\033[0m\033[40m\033[35m[\033[0m\033[40m\033[32m0\033[0m\033[40m\033[35m]\033[31m Exit                    \033[0m\033[40m\033[35m[\033[0m\033[40m\033[32m4\033[0m\033[40m\033[35m] Print saved user agents
-\033[0m\033[40m\033[35m[\033[0m\033[40m\033[32m1\033[0m\033[40m\033[35m] Search proxies          \033[0m\033[40m\033[35m[\033[0m\033[40m\033[32m5\033[0m\033[40m\033[35m] Delete saved proxies
-\033[0m\033[40m\033[35m[\033[0m\033[40m\033[32m2\033[0m\033[40m\033[35m] Search user agents      \033[0m\033[40m\033[35m[\033[0m\033[40m\033[32m6\033[0m\033[40m\033[35m] Delete saved user agents
+\033[0m\033[40m\033[35m[\033[0m\033[40m\033[32m0\033[0m\033[40m\033[35m]\033[31m Exit                    
+\033[0m\033[40m\033[35m[\033[0m\033[40m\033[32m1\033[0m\033[40m\033[35m] Search proxies          
+\033[0m\033[40m\033[35m[\033[0m\033[40m\033[32m2\033[0m\033[40m\033[35m] Search user agents      
 \033[0m\033[40m\033[35m[\033[0m\033[40m\033[32m3\033[0m\033[40m\033[35m] Print saved proxies
+\033[0m\033[40m\033[35m[\033[0m\033[40m\033[32m4\033[0m\033[40m\033[35m] Print saved user agents
+\033[0m\033[40m\033[35m[\033[0m\033[40m\033[32m5\033[0m\033[40m\033[35m] Delete saved proxies
+\033[0m\033[40m\033[35m[\033[0m\033[40m\033[32m6\033[0m\033[40m\033[35m] Delete saved user agents
 		""")
 	try:
 		ans = int(input('\033[0m\033[40m\033[35m → \033[32m'))
@@ -138,13 +145,11 @@ def main():
 				for child in soup.recursiveChildGenerator():
 					if child.name=='td':
 						if validate_ip(child.text):
-							file.write(str("IP: " + child.text))
-							spaces = ip-len(child.text)
-							file.write(' ' * spaces + '| ')
+							file.write(child.text)
+							file.write(':')
 						if validate_port(child.text):
-							file.write(str("PORT: " + child.text))
-							spaces = port-len(child.text)
-							file.write(' ' * spaces + '\n')
+							file.write(child.text)
+							file.write('\n')
 
 			res2 = requests.get('https://free-proxy-list.net', headers={'User-Agent':'Mozilla/5.0 (Linux; Android 11; SM-A326B Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/95.0.4638.74 Mobile Safari/537.36'})
 			soup2 = BeautifulSoup(res2.text,"lxml")
@@ -157,13 +162,11 @@ def main():
 						if cnt2 == 0:
 							if not validate_ip(child.text):
 								break
-							file.write(str("IP: " + child.text))
-							spaces = ip-len(child.text)
-							file.write(' ' * spaces + '| ')
+							file.write(child.text)
+							file.write(':')
 						if cnt2 == 1:
-							file.write(str("PORT: " + child.text))
-							spaces = port-len(child.text)
-							file.write(' ' * spaces + '\n')
+							file.write(child.text)
+							file.write('\n')
 
 						cnt2 = (cnt2 + 1) % 8
 			print(Fore.CYAN + "Success! Proxy file: proxy.txt")
@@ -220,4 +223,6 @@ def main():
 		ex()
 
 if __name__=='__main__':
+	if platform == 'win32':
+		ctypes.windll.kernel32.SetConsoleTitleW("Scraper")
 	main()
