@@ -1,5 +1,5 @@
 # [![image](https://i.ibb.co/MsKdDL4/Comp-1-00000.png)](https://t.me/cozyyrooom)
-# proxy and user agent scraper🔎
+# Free proxies and useragents
 
 [![Button](https://badgen.net/badge/ebankoff/ebankoff/red?icon=github&label)](https://github.com/ebankoff) [![Button](https://badgen.net/badge/telegram/telegram/yellow?icon=telegram&label)](https://t.me/cozyyrooom) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20over%20170%20free%20design%20blocks%20based%20on%20Bootstrap%204&url=https://www.froala.com/design-blocks&via=froala&hashtags=bootstrap,design,templates,blocks,developers)
 
@@ -8,12 +8,12 @@
 # 📌 Installation and run
 
 * 1 way
-  * git clone https://github.com/ebankoff/scraper
-  * cd scraper
-  * python3 scraper.py
+  * git clone https://github.com/ebankoff/free-proxies-and-useragents
+  * cd free-proxies-and-useragents
+  * start.py
 * 2 way
-  * pip3 install ebankoff-scraper
-  * scraper
+  * pip3 install ebankoff-free_proxies_useragents
+  * freeprox
 
 * Required pip libraries (pip install library name)
   * lxml
@@ -49,12 +49,12 @@ This means that you don't have the library that is specified in the error, in th
 # 📌 Установка и запуск
 
 * 1 путь
-  * git clone https://github.com/ebankoff/scraper
-  * cd scraper
-  * python3 scraper.py
+  * git clone https://github.com/ebankoff/free-proxies-and-useragents
+  * cd free-proxies-and-useragents
+  * start.py
 * 2 путь
-  * pip install ebankoff-scraper
-  * scraper
+  * pip3 install ebankoff-free_proxies_useragents
+  * freeprx
 
 * Необходимые библиотеки pip (pip install library name)
   * lxml
