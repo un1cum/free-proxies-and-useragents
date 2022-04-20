@@ -13,7 +13,7 @@
   * start.py
 * 2 way
   * pip3 install free_proxies_useragents
-  * freeprox
+  * freeprx
 
 * Required pip libraries (pip install library name)
   * lxml
