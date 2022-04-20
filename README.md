@@ -12,7 +12,7 @@
   * cd free-proxies-and-useragents
   * start.py
 * 2 way
-  * pip3 install ebankoff-free_proxies_useragents
+  * pip3 install free_proxies_useragents
   * freeprox
 
 * Required pip libraries (pip install library name)
@@ -53,7 +53,7 @@ This means that you don't have the library that is specified in the error, in th
   * cd free-proxies-and-useragents
   * start.py
 * 2 путь
-  * pip3 install ebankoff-free_proxies_useragents
+  * pip3 install free_proxies_useragents
   * freeprx
 
 * Необходимые библиотеки pip (pip install library name)
