@@ -44,7 +44,7 @@ else:
 
 
 def ex():
-	param=input(Fore.YELLOW + '\nExit? yes/no: ')
+	param=input(Fore.WHITE + '\nExit? yes/no: ')
 	if param == 'yes':
 		if platform == 'win32':
 			os.system("cls")
