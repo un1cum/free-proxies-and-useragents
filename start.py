@@ -5,8 +5,8 @@
 ║  Author:                                                                        ║
 ║  https://github.com/ebankoff                                                    ║                                                     
 ║                                                                                 ║
-║  The authors of this program are not responsible for its use!                   ║
-║  When placing this code on third-party resources, please indicate the authors!  ║
+║  The author of this program are not responsible for its use!                    ║
+║  When placing this code on third-party resources, please indicate the author!   ║
 ║                                                                                 ║
 ║                               All rights reserved.                              ║
 ║                           Copyright (C) 2022 ebankoff                           ║
