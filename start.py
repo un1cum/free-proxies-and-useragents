@@ -53,7 +53,7 @@ def ex():
 			os.system("clear")
 		print(
 			'     I would be grateful if you star on this repository on GitHub:',
-			'\n          https://github.com/ebankoff/free_proxies_useragents',
+			'\n      https://github.com/ebankoff/free-proxies-and-useragents',
 			'\n',
 			'\n          You can support me by sending any amount to my Qiwi:',
 			'\n                        qiwi.com/n/HERAMANT',
