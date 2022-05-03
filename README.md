@@ -58,7 +58,7 @@ This means that you don't have the library that is specified in the error, in th
   * pip3 install free_proxies_useragents
   * freeprx
 
-* Необходимые библиотеки pip (pip install library name)
+* Необходимые библиотеки pip (pip install имя библиотеки)
   * lxml
   * beautifulsoup4
   * bs4
