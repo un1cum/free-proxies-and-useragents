@@ -1,14 +1,14 @@
 # [![image](https://i.ibb.co/ZXQxkxM/Comp-1-00000-1.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLrpgO-fUNO4OKpFbFXb2cQlF72Yj3ppJv)
 # Free proxies and useragents
 
-[![Button](https://badgen.net/badge/patreon/patreon/red?icon=patreon&label)](https://www.patreon.com/ebankoff) [![Button](https://badgen.net/badge/ebankoff/ebankoff/white?icon=github&label)](https://github.com/ebankoff)
+[![Button](https://badgen.net/badge/patreon/patreon/red?icon=patreon&label)](https://www.patreon.com/ebankoff) [![Button](https://badgen.net/badge/un1cum/un1cum/white?icon=github&label)](https://github.com/un1cum)
 
 # EN
 
 # 📌 Installation and run
 
 * 1 way
-  * git clone https://github.com/ebankoff/free-proxies-and-useragents
+  * git clone https://github.com/un1cum/free-proxies-and-useragents
   * cd free-proxies-and-useragents
   * start.py
 * 2 way
@@ -47,7 +47,7 @@ This means that you don't have the library that is specified in the error, in th
 # 📌 Установка и запуск
 
 * 1 путь
-  * git clone https://github.com/ebankoff/free-proxies-and-useragents
+  * git clone https://github.com/un1cum/free-proxies-and-useragents
   * cd free-proxies-and-useragents
   * start.py
 * 2 путь
