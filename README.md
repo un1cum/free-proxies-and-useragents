@@ -1,8 +1,6 @@
 # [![image](https://i.ibb.co/ZXQxkxM/Comp-1-00000-1.png)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PLrpgO-fUNO4OKpFbFXb2cQlF72Yj3ppJv)
 # Free proxies and useragents
 
-[![Button](https://badgen.net/badge/patreon/patreon/red?icon=patreon&label)](https://www.patreon.com/un1cum) [![Button](https://badgen.net/badge/un1cum/un1cum/white?icon=github&label)](https://github.com/un1cum)
-
 # EN
 
 # 📌 Installation and run
@@ -37,7 +35,6 @@ This means that you don't have the library that is specified in the error, in th
 
 # 📌 Donate for coffee
 
-`Crypto wallets`
 * **Smart chain: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
 * **Bitcoin: bc1qxfvstf99kyuc5x5uugxtsh3m6w3a73ruzfav7e**
 * **Ethereum: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
@@ -76,7 +73,6 @@ This means that you don't have the library that is specified in the error, in th
 
 # 📌 Автору на кофе
 
-`Крипта`
 * **Smart chain: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
 * **Bitcoin: bc1qxfvstf99kyuc5x5uugxtsh3m6w3a73ruzfav7e**
 * **Ethereum: 0x96a0B6E4274771D5f3F8e59564b58C35D74D8Cc1**
